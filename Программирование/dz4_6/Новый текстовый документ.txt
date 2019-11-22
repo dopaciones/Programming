@@ -1,0 +1,22 @@
+Проверки
+
+for (i = 0; i <= n-1; i++){
+        temp = s[i];
+        temp += s[i+1];
+        if ((temp == "IL")||(temp == "IC")||(temp == "ID")||(temp == "IM")){
+            check = false;
+        }
+        if ((temp == "VX")||(temp == "VL")||(temp == "VC")||(temp == "VD")||(temp == "VM")){
+            check = false;
+        }
+        if ((temp == "XM")||(temp == "XD")){
+            check = false;
+        }
+        if ((temp == "LC")||(temp == "LD")||(temp == "LM")){
+            check = false;
+        }
+        if (temp == "DM"){
+            check = false;
+        }
+        temp = "";
+    }

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1574355520 source:c:\users\Никколай\desktop\Учеба\Программирование\dz4_7\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+

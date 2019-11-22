@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1574185764 source:c:\users\Никколай\desktop\Учеба\Программирование\dz4_1\main.cpp
+	<iostream>
+	<fstream>
+

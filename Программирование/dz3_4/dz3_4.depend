@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1574178948 source:c:\users\Никколай\desktop\Учеба\Программирование\dz3_4\main.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+
