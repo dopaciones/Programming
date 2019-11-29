@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1575030261 source:c:\users\Никколай\desktop\Учеба\Программирование\eratosfen\main.cpp
+	<iostream>
+	<math.h>
+
