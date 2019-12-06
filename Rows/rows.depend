@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1575565516 source:c:\users\Никколай\desktop\Учеба\Программирование\rows\main.cpp
+	<iostream>
+	<cmath>
+	<iomanip>
+
